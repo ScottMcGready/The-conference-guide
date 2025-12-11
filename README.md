@@ -31,7 +31,7 @@ Documentation is split into the following sections:
 * [Volunteer management](volunteer_management.md)
 * [Day Guides](/guides/guides_overview.md)
 	* [Attendees](/guides/attendees.md)
-	* [AV crew](/guides/av_crew.md)
+	* [Track crew](/guides/track_crew.md)
 	* [Attendees](/guides/attendees.md)
 	* [Organisers](/guides/organisers.md)
 	* [Speakers (in person)](/guides/speakers-in_person.md)

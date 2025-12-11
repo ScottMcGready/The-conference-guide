@@ -10,7 +10,7 @@ As noted in [branding](/organisation_and_planning#branding), it's worth consider
 ## List of guides
 
 * [Attendees](/guides/attendees.md)
-* [AV crew](/guides/av_crew.md)
+* [Track crew](/guides/track_crew.md)
 * [Organisers](/guides/organisers.md)
 * [Speakers (in person)](/guides/speakers-in_person.md)
 * [Speakers (virtual)](/guides/speakers-virtual.md)
